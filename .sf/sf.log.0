@@ -1,0 +1,12 @@
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\ullit\\.sf\\sf.log","dest":"C:\\Users\\ullit\\.sf\\sf.log.0","msg":"","time":"2023-08-09T14:36:08.578Z","v":0}
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\ullit\\.sf\\sf.log","dest":"C:\\Users\\ullit\\.sf\\sf.log.0","msg":"","time":"2023-08-09T14:36:08.583Z","v":0}
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\ullit\\.sf\\sf.log","dest":"C:\\Users\\ullit\\.sf\\sf.log.0","msg":"","time":"2023-08-09T14:36:08.581Z","v":0}
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"errno":-4058,"code":"ENOENT","syscall":"rename","path":"C:\\Users\\ullit\\.sf\\sf.log","dest":"C:\\Users\\ullit\\.sf\\sf.log.0","msg":"","time":"2023-08-09T14:36:08.584Z","v":0}
+{"name":"sf","hostname":"hp","pid":31488,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2023-08-09T14:36:38.334Z","v":0}
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"msg":"","time":"2023-08-09T14:36:53.038Z","v":0}
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"msg":"","time":"2023-08-09T14:36:53.039Z","v":0}
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"msg":"","time":"2023-08-09T14:36:53.039Z","v":0}
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"msg":"","time":"2023-08-09T14:36:53.039Z","v":0}
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"msg":"","time":"2023-08-09T14:36:53.040Z","v":0}
+{"name":"sf","hostname":"hp","pid":3548,"level":60,"msg":"","time":"2023-08-09T14:36:53.041Z","v":0}
+{"name":"sf","hostname":"hp","pid":17140,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2023-08-09T14:36:55.102Z","v":0}

@@ -1,0 +1,19 @@
+{
+  "accessToken": "c755a76e909e7e7589d22134c54173a2ce209be0d6ec0f2360301b23819095a351e80e58ffca48d1c9c264905fd65c5a17ab37f2aa0a58d471ca75baea2a24dbca0299b086c30ceb949e42e3c3901bf4f7b27a68f317828304f3d33c385760aabf6ee61b0e656f5b51d4d5c950fd35310bdbeb18309c:e793117f18ff0da64608f8c148f93505",
+  "instanceUrl": "https://wise-narwhal-74p05m-dev-ed.trailblaze.my.salesforce.com",
+  "orgId": "00D5g00000KhJGfEAN",
+  "username": "ullithulaguraiah123@wise-narwhal-74p05m.com",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "af3fb59e69c1926f37ac824dc4e7312a1d077aa11d4e969bb211981a3842a7c65fc21ce7565e510e5fbedbe0cd4513cad908436e08594ca3059085f817b4da85ad6cefbe3c8c0c374df7cac5c0bef21c43d9b4f56a087afd4e59b6bd7c:b14d7c3574a9fe07e158d89bc143b762",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "61.0",
+  "instanceApiVersionLastRetrieved": "7/26/2024, 5:41:43 PM",
+  "name": "Dhee",
+  "instanceName": "AP59",
+  "namespacePrefix": null,
+  "isSandbox": false,
+  "isScratch": false,
+  "trailExpirationDate": null,
+  "tracksSource": false
+}

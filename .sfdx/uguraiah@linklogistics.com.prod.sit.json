@@ -1,0 +1,12 @@
+{
+  "accessToken": "da27cc7461105d66101b0319bd23526ebece1a921e7aa6bf047b50b82e3ad360ade359d0e7cba95b5ee7581d907b7c51091c7b8457d391ee1adf061584e87b4bd764d14f89b98de5b258062bb4fe3e13a6b7c2f20b9f5d6ca68e5acd40ad363781953463c0c65f9f1c6ec872e513f2e06c5a0bf60cfe:d45e9095430c1d6ec0c5fff70ff21206",
+  "instanceUrl": "https://linklogistics--sit.sandbox.my.salesforce.com",
+  "orgId": "00D5C000000N7P4UAK",
+  "username": "uguraiah@linklogistics.com.prod.sit",
+  "loginUrl": "https://test.salesforce.com/",
+  "refreshToken": "9b3f4790a274450cb06fdc401f7edf181debbab560a7a56c6e0785a1247841b6ce6ae70243142ef72671079e4e3ce73b85cb76b14bb9b4ce768b4a250d1a5df768a4d42833ed5d5e7843b15a2a576b0c1cb8c31e4fcea8f8a56fe5530e:a54ef1ddc41ccbcb8bf92411a1423b1b",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "61.0",
+  "instanceApiVersionLastRetrieved": "7/26/2024, 5:56:48 PM"
+}

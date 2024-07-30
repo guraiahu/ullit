@@ -1,0 +1,19 @@
+{
+  "accessToken": "a9a98ede1f479bdacbbeb70d703ab0d7fb62b1cf1fbcf1c9adcaca584a975e86120be3c5c08259fd56043dfa4effe59d9eb03bd367c0444eeacfa0bdd7253493d62728a84373eceb71b9e8398713c553dd6c5db283b7fd0f55dd2e7347300c0ff7c4788174869340a726e9fe769dccc9f4e18ba2b692:8a0501c8998604f71ad4ffec982779c0",
+  "instanceUrl": "https://gmail-e8-dev-ed.my.salesforce.com",
+  "orgId": "00D5g000004SrMBEA0",
+  "username": "ullithulaguraiah123@gmail.com",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "a93f841662e3739147657fe14dd0f1bd95366361b0e762264f06b4da46522be1ef86e6ac4324b89d9c6638fc4f6ec43c5715d325df45a08b0b32d5cd91b2487e4d2ab280286fc14d45e41dfdb05e45e77095fe111b95ac1490cf837f14:9ab06d8d918919b5d5ac85baa7e4411e",
+  "clientId": "PlatformCLI",
+  "isDevHub": true,
+  "instanceApiVersion": "61.0",
+  "instanceApiVersionLastRetrieved": "7/29/2024, 9:43:18 AM",
+  "name": "gmail",
+  "instanceName": "AP59",
+  "namespacePrefix": null,
+  "isSandbox": false,
+  "isScratch": false,
+  "trailExpirationDate": null,
+  "tracksSource": false
+}
