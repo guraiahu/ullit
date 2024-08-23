@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 30 13:07:30 IST 2024
+httpcore5-h2-5.2.5-sources.jar>central=
+httpcore5-h2-5.2.5.jar>central=
+httpcore5-h2-5.2.5.pom>central=
